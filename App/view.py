@@ -34,7 +34,6 @@ se hace la solicitud al controlador para ejecutar la
 operación solicitada
 """
 
-
 # Funciones para la impresión de resultados
 
 
